@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="shortcut_short_label">Open Google</string>
+    <string name="shortcut_long_label">Go to Google</string>
+</resources>
